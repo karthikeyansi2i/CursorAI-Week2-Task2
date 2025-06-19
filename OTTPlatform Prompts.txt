@@ -1,0 +1,12 @@
+Implement the observer pattern for a OTT platform
+
+Context: OTT app/web app
+Requirements: Content streaming
+Please provide:
+1. Interface/abstract class definitions
+2. Concrete implementations
+3. Client code example
+4. Unit tests
+5. Explanation of why this pattern fits
+Language: Dotnet 8
+Follow dotnet best practices and naming conventions.
